@@ -29,6 +29,8 @@
 ![](https://img.shields.io/badge/Code-VisualFox-informational?style=flat-square&logo=GitLab&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-JSON-informational?style=flat-square&logo=json&logoColor=white&color=4AB197)
 
+
+
 #### Website Technologies
 
 ![](https://img.shields.io/badge/MarkUp-HTML-informational?style=flat-square&logo=html5&logoColor=white&color=#e96228)
@@ -38,17 +40,32 @@
 ![](https://img.shields.io/badge/Style-CSS-informational?style=flat-square&logo=css3&logoColor=white&color=c76494)
 ![](https://img.shields.io/badge/Style-SCSS-informational?style=flat-square&logo=css3&logoColor=white&color=c76494)
 ![](https://img.shields.io/badge/Controls-SyncFusion-informational?style=flat-square&logo=visualstudio&logoColor=white&color=c76494)
-![](https://img.shields.io/badge/Style-Stylus-informational?style=flat-square&logo=Stylus&logoColor=white&color=c76494)
+
 
 ![](https://img.shields.io/badge/Pattern-MVC-informational?style=flat-square&logo=Jasmine&logoColor=white&color=8a4182)
 ![](https://img.shields.io/badge/Pattern-MVVM-informational?style=flat-square&logo=Protractor&logoColor=white&color=8a4182)
 
+
+#### CI/CD
+![](https://img.shields.io/badge/CICD-GitHub-informational?style=flat-square&logo=GitHub&logoColor=white&color=0D3B80)
+![](https://img.shields.io/badge/CICD-Jira-informational?style=flat-square&logo=atlassian&logoColor=white&color=0D3B80)
+![](https://img.shields.io/badge/CICD-Bitbucket-informational?style=flat-square&logo=Bitbucket&logoColor=white&color=0D3B80)
+![](https://img.shields.io/badge/CICD-VisualStudio2019-informational?style=flat-square&logo=visualstudio&logoColor=white&color=0D3B80)
+![](https://img.shields.io/badge/CICD-VSCode-informational?style=flat-square&logo=visual-studio-code&logoColor=white&color=0D3B80)
+![](https://img.shields.io/badge/CICD-Discord-informational?style=flat-square&logo=discord&logoColor=white&color=0D3B80)
 
 #### Data Technologies
 
 ![](https://img.shields.io/badge/Data-MSSQLServer-informational?style=flat-square&logo=microsoftsqlserver&logoColor=white&color=555922)
 ![](https://img.shields.io/badge/Data-PostgreSQL-informational?style=flat-square&logo=postgresql&logoColor=white&color=555922)
 ![](https://img.shields.io/badge/Data-PowerBI-informational?style=flat-square&logo=powerbi&logoColor=white&color=555922)
+
+#### Comunications Technologies
+
+![](https://img.shields.io/badge/Code-ChatBot-informational?style=flat-square&logo=ChatBot&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-IVR-informational?style=flat-square&logo=WhatsApp&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Chatwood-informational?style=flat-square&logo=ChatBot&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-RASA-informational?style=flat-square&logo=rasa&logoColor=white&color=4AB197)
 
 #### Others Technologies
 
@@ -57,13 +74,6 @@
 ![](https://img.shields.io/badge/VPS-Proxmox-informational?style=flat-square&logo=proxmox&logoColor=white&color=222222)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat-square&logo=docker&logoColor=white&color=222222)
 ![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat-square&logo=Kubernetes&logoColor=white&color=222222)
-![](https://img.shields.io/badge/Tools-Photoshop-informational?style=flat-square&logo=Adobe-Photoshop&logoColor=white&color=222222)
-![](https://img.shields.io/badge/Tools-GIMP-informational?style=flat-square&logo=GIMP&logoColor=white&color=222222)
-![](https://img.shields.io/badge/Tools-VisualStudio2019-informational?style=flat-square&logo=visualstudio&logoColor=white&color=222222)
-![](https://img.shields.io/badge/Tools-VSCode-informational?style=flat-square&logo=visual-studio-code&logoColor=white&color=222222)
-![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat-square&logo=GitHub&logoColor=white&color=222222)
-![](https://img.shields.io/badge/Tools-Jira-informational?style=flat-square&logo=atlassian&logoColor=white&color=222222)
-![](https://img.shields.io/badge/Tools-Bitbucket-informational?style=flat-square&logo=Bitbucket&logoColor=white&color=222222)
 ![](https://img.shields.io/badge/Hardware-RaspberryPi-informational?style=flat-square&logo=Raspberry-Pi&logoColor=white&color=222222)
 ![](https://img.shields.io/badge/Hardware-Arduino-informational?style=flat-square&logo=Arduino&logoColor=white&color=222222)
 
