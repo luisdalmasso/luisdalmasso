@@ -1,5 +1,4 @@
 ### Hi there 👋
-### Hi there 👋
 
 [![Website Badge](https://img.shields.io/badge/Website-informational?style=flat-square&logo=firefox-browser&logoColor=white&color=4AB197)](https://github.com/luisdalmasso/)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-informational?style=flat-square&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/luisdalmasso)
@@ -20,19 +19,14 @@
 
 #### Code Technologies
 
-![](https://img.shields.io/badge/Code-Angular-informational?style=flat-square&logo=angular&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-.NET-informational?style=flat-square&logo=dotnet&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat-square&logo=Python&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat-square&logo=JavaScript&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat-square&logo=TypeScript&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat-square&logo=Python&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-NodeJS-informational?style=flat-square&logo=Node.JS&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-PHP-informational?style=flat-square&logo=php&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Java-informational?style=flat-square&logo=Java&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-ReactiveX-informational?style=flat-square&logo=ReactiveX&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Electron-informational?style=flat-square&logo=Electron&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Capacitor-informational?style=flat-square&logo=Capacitor&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Cordova-informational?style=flat-square&logo=apache-cordova&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Processing-informational?style=flat-square&logo=Java&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-p5JS-informational?style=flat-square&logo=p5.js&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Powershell-informational?style=flat-square&logo=powershell&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-VB6-informational?style=flat-square&logo=visualstudio&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-VisualFox-informational?style=flat-square&logo=GitLab&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-JSON-informational?style=flat-square&logo=json&logoColor=white&color=4AB197)
 
 #### Website Technologies
@@ -43,7 +37,7 @@
 
 ![](https://img.shields.io/badge/Style-CSS-informational?style=flat-square&logo=css3&logoColor=white&color=c76494)
 ![](https://img.shields.io/badge/Style-SCSS-informational?style=flat-square&logo=css3&logoColor=white&color=c76494)
-![](https://img.shields.io/badge/Style-Sass-informational?style=flat-square&logo=Sass&logoColor=white&color=c76494)
+![](https://img.shields.io/badge/Controls-SyncFusion-informational?style=flat-square&logo=visualstudio&logoColor=white&color=c76494)
 ![](https://img.shields.io/badge/Style-Stylus-informational?style=flat-square&logo=Stylus&logoColor=white&color=c76494)
 
 ![](https://img.shields.io/badge/Test-Jasmine-informational?style=flat-square&logo=Jasmine&logoColor=white&color=8a4182)
