@@ -61,6 +61,8 @@
 ![](https://img.shields.io/badge/Data-PowerBI-informational?style=flat-square&logo=powerbi&logoColor=white&color=555922)
 ![](https://img.shields.io/badge/Data-Pandas-informational?style=flat-square&logo=powerbi&logoColor=white&color=555922)
 
+ <img alt="Odoo" src="https://s10.gifyu.com/images/odoo.png" />
+ 
 #### Comunications Technologies
 
 ![](https://img.shields.io/badge/Code-ChatBot-informational?style=flat-square&logo=ChatBot&logoColor=white&color=FFC300)
@@ -78,5 +80,8 @@
 ![](https://img.shields.io/badge/Hardware-RaspberryPi-informational?style=flat-square&logo=Raspberry-Pi&logoColor=white&color=222222)
 ![](https://img.shields.io/badge/Hardware-Arduino-informational?style=flat-square&logo=Arduino&logoColor=white&color=222222)
 
-
+![GitHub repo size](https://img.shields.io/github/repo-size/odoomates/odooapps?style=plastic)
+![GitHub language count](https://img.shields.io/github/languages/count/odoomates/odooapps?style=plastic)
+![GitHub top language](https://img.shields.io/github/languages/top/odoomates/odooapps?style=plastic)
+![GitHub last commit](https://img.shields.io/github/last-commit/odoomates/odooapps?color=red&style=plastic)
 
