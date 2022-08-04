@@ -46,7 +46,7 @@
 
 #### Data Technologies
 
-![](https://img.shields.io/badge/Data-MSSQLServer-informational?style=flat-square&logo=microsoftsqlserver&logoColor=white&color=555222)
+![](https://img.shields.io/badge/Data-MSSQLServer-informational?style=flat-square&logo=microsoftsqlserver&logoColor=white&color=555922)
 ![](https://img.shields.io/badge/Data-PostgreSQL-informational?style=flat-square&logo=postgresql&logoColor=white&color=#FF9E0F)
 ![](https://img.shields.io/badge/Data-PowerBI-informational?style=flat-square&logo=powerbi&logoColor=white&color=#FF9E0F)
 
