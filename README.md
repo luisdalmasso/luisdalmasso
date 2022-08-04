@@ -46,7 +46,7 @@
 ![](https://img.shields.io/badge/Pattern-MVVM-informational?style=flat-square&logo=Protractor&logoColor=white&color=8a4182)
 
 
-#### CI/CD
+#### CI/CD Continuous Integration
 ![](https://img.shields.io/badge/CICD-GitHub-informational?style=flat-square&logo=GitHub&logoColor=white&color=0D3B80)
 ![](https://img.shields.io/badge/CICD-Jira-informational?style=flat-square&logo=atlassian&logoColor=white&color=0D3B80)
 ![](https://img.shields.io/badge/CICD-Bitbucket-informational?style=flat-square&logo=Bitbucket&logoColor=white&color=0D3B80)
@@ -59,13 +59,14 @@
 ![](https://img.shields.io/badge/Data-MSSQLServer-informational?style=flat-square&logo=microsoftsqlserver&logoColor=white&color=555922)
 ![](https://img.shields.io/badge/Data-PostgreSQL-informational?style=flat-square&logo=postgresql&logoColor=white&color=555922)
 ![](https://img.shields.io/badge/Data-PowerBI-informational?style=flat-square&logo=powerbi&logoColor=white&color=555922)
+![](https://img.shields.io/badge/Data-Pandas-informational?style=flat-square&logo=powerbi&logoColor=white&color=555922)
 
 #### Comunications Technologies
 
-![](https://img.shields.io/badge/Code-ChatBot-informational?style=flat-square&logo=ChatBot&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-IVR-informational?style=flat-square&logo=WhatsApp&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Chatwood-informational?style=flat-square&logo=ChatBot&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-RASA-informational?style=flat-square&logo=rasa&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-ChatBot-informational?style=flat-square&logo=ChatBot&logoColor=white&color=FFC300)
+![](https://img.shields.io/badge/Code-IVR-informational?style=flat-square&logo=WhatsApp&logoColor=white&color=FFC300)
+![](https://img.shields.io/badge/Code-Chatwood-informational?style=flat-square&logo=ChatBot&logoColor=white&color=FFC300)
+![](https://img.shields.io/badge/Code-RASA-informational?style=flat-square&logo=rasa&logoColor=white&color=FFC300)
 
 #### Others Technologies
 
@@ -78,17 +79,4 @@
 ![](https://img.shields.io/badge/Hardware-Arduino-informational?style=flat-square&logo=Arduino&logoColor=white&color=222222)
 
 
-<!--
-**luisdalmasso/luisdalmasso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
