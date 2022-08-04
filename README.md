@@ -2,7 +2,7 @@ Welcome
 
 [![Website Badge](https://img.shields.io/badge/Website-informational?style=flat-square&logo=firefox-browser&logoColor=white&color=4AB197)](https://github.com/luisdalmasso/)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-informational?style=flat-square&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/luisdalmasso)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-informational?style=flat-square&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/luisdalmasso/)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-informational?style=flat-square&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/luis-antonio-dalmasso)
 [![CodersRank Badge](https://img.shields.io/badge/CodersRank-informational?style=flat-square&logo=CodersRank&logoColor=white&color=67a4ac)](https://profile.codersrank.io/user/luisdalmasso)
 
 ### Luis Dalmasso in GitHub
