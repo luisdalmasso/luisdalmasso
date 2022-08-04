@@ -8,7 +8,7 @@
 ### Luis Dalmasso in GitHub
 
 <a href="https://github.com/luisdalmasso">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=luisdalmasso&show_icons=true&line_height=40&count_private=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=4D677A" alt="Luis Dalmasso's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=luisdalmasso&show_icons=true&line_height=40&count_private=true&title_color=fff&icon_color=79ff97&text_color=E67D30&bg_color=4D677A" alt="Luis Dalmasso's GitHub Stats" />
 </a>
 
 <a href="https://github.com/luisdalmasso">
