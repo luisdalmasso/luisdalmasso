@@ -43,6 +43,13 @@
 ![](https://img.shields.io/badge/Test-Jasmine-informational?style=flat-square&logo=Jasmine&logoColor=white&color=8a4182)
 ![](https://img.shields.io/badge/Test-Protractor-informational?style=flat-square&logo=Protractor&logoColor=white&color=8a4182)
 
+
+#### Data Technologies
+
+![](https://img.shields.io/badge/Data-MSSQLServer-informational?style=flat-square&logo=microsoftsqlserver&logoColor=white&color=#FF9E0F)
+![](https://img.shields.io/badge/Data-PostgreSQL-informational?style=flat-square&logo=postgresql&logoColor=white&color=#FF9E0F)
+![](https://img.shields.io/badge/Data-PowerBI-informational?style=flat-square&logo=powerbi&logoColor=white&color=#FF9E0F)
+
 #### Others Technologies
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white&color=222222)
@@ -55,7 +62,7 @@
 ![](https://img.shields.io/badge/Tools-VisualStudio2019-informational?style=flat-square&logo=visualstudio&logoColor=white&color=222222)
 ![](https://img.shields.io/badge/Tools-VSCode-informational?style=flat-square&logo=visual-studio-code&logoColor=white&color=222222)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat-square&logo=GitHub&logoColor=white&color=222222)
-![](https://img.shields.io/badge/Tools-GitLab-informational?style=flat-square&logo=GitLab&logoColor=white&color=222222)
+![](https://img.shields.io/badge/Tools-Jira-informational?style=flat-square&logo=atlassian&logoColor=white&color=222222)
 ![](https://img.shields.io/badge/Tools-Bitbucket-informational?style=flat-square&logo=Bitbucket&logoColor=white&color=222222)
 ![](https://img.shields.io/badge/Hardware-RaspberryPi-informational?style=flat-square&logo=Raspberry-Pi&logoColor=white&color=222222)
 ![](https://img.shields.io/badge/Hardware-Arduino-informational?style=flat-square&logo=Arduino&logoColor=white&color=222222)
