@@ -40,15 +40,15 @@
 ![](https://img.shields.io/badge/Controls-SyncFusion-informational?style=flat-square&logo=visualstudio&logoColor=white&color=c76494)
 ![](https://img.shields.io/badge/Style-Stylus-informational?style=flat-square&logo=Stylus&logoColor=white&color=c76494)
 
-![](https://img.shields.io/badge/Test-Jasmine-informational?style=flat-square&logo=Jasmine&logoColor=white&color=8a4182)
-![](https://img.shields.io/badge/Test-Protractor-informational?style=flat-square&logo=Protractor&logoColor=white&color=8a4182)
+![](https://img.shields.io/badge/Pattern-MVC-informational?style=flat-square&logo=Jasmine&logoColor=white&color=8a4182)
+![](https://img.shields.io/badge/Pattern-MVVM-informational?style=flat-square&logo=Protractor&logoColor=white&color=8a4182)
 
 
 #### Data Technologies
 
 ![](https://img.shields.io/badge/Data-MSSQLServer-informational?style=flat-square&logo=microsoftsqlserver&logoColor=white&color=555922)
-![](https://img.shields.io/badge/Data-PostgreSQL-informational?style=flat-square&logo=postgresql&logoColor=white&color=#FF9E0F)
-![](https://img.shields.io/badge/Data-PowerBI-informational?style=flat-square&logo=powerbi&logoColor=white&color=#FF9E0F)
+![](https://img.shields.io/badge/Data-PostgreSQL-informational?style=flat-square&logo=postgresql&logoColor=white&color=555922)
+![](https://img.shields.io/badge/Data-PowerBI-informational?style=flat-square&logo=powerbi&logoColor=white&color=555922)
 
 #### Others Technologies
 
