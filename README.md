@@ -52,7 +52,7 @@
 ![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat-square&logo=Kubernetes&logoColor=white&color=222222)
 ![](https://img.shields.io/badge/Tools-Photoshop-informational?style=flat-square&logo=Adobe-Photoshop&logoColor=white&color=222222)
 ![](https://img.shields.io/badge/Tools-GIMP-informational?style=flat-square&logo=GIMP&logoColor=white&color=222222)
-![](https://img.shields.io/badge/Tools-Visual Studio 2019-informational?style=flat-square&logo=visualstudio&logoColor=white&color=222222)
+![](https://img.shields.io/badge/Tools-VisualStudio2019-informational?style=flat-square&logo=visualstudio&logoColor=white&color=222222)
 ![](https://img.shields.io/badge/Tools-VSCode-informational?style=flat-square&logo=visual-studio-code&logoColor=white&color=222222)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat-square&logo=GitHub&logoColor=white&color=222222)
 ![](https://img.shields.io/badge/Tools-GitLab-informational?style=flat-square&logo=GitLab&logoColor=white&color=222222)
