@@ -15,13 +15,6 @@ Welcome
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisdalmasso&hide=html,max,processing,puredata&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
 </a>
 
-<a href="https://profile.codersrank.io/user/luisdalmasso" target="_blank" rel="noopener noreferrer">
-     <span class="icon">
-      <img src="i/avatar.jpg.jpg" alt="CodersRank" />
-     </span>
-      <span>CodersRank</span>
-    </a>
-
 ![GitHub repo size](https://img.shields.io/github/repo-size/odoomates/odooapps?style=plastic)
 ![GitHub language count](https://img.shields.io/github/languages/count/odoomates/odooapps?style=plastic)
 ![GitHub top language](https://img.shields.io/github/languages/top/odoomates/odooapps?style=plastic)
