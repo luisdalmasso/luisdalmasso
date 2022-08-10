@@ -20,6 +20,12 @@ Welcome
 ![GitHub top language](https://img.shields.io/github/languages/top/odoomates/odooapps?style=plastic)
 ![GitHub last commit](https://img.shields.io/github/last-commit/odoomates/odooapps?color=red&style=plastic)
 
+    <a href="https://profile.codersrank.io/user/luisdalmasso@gmail.com" target="_blank" rel="noopener noreferrer">
+            <span class="icon">
+              <img src="i/avatar.jpg.jpg" alt="CodersRank" />
+            </span>
+            <span>CodersRank</span>
+    </a>
 
 ### Dev Skills
 
